@@ -10,5 +10,6 @@
     "featureAnalyzeBody": "By aggregating economic data from public sources such as central banks and statistical offices, Fluxonaut allows you to easily enrich your dashboard with real-time and historical charts, or export your queries to an Excel spreadsheet.\n\nFluxonaut also includes live data from financial markets to help you make **informed decisions** and act fast about your investments.",
     "heroCallToAction": "SIGN UP FOR THE FREE BETA",
     "heroAvailability": "Available for Windows, iOS and Android.",
-    "faqFirstQuestion": "How does Fluxonaut work?"
+    "faqFirstQuestion": "How does Fluxonaut work?",
+    "faqFirstAnswer": "Fluxonaut is a news reader that can aggregate content from multiple types of sources, including RSS, social feeds, YouTube channels, market data and more. Once you set up your dashboard and indicate the blogs, sites, topics or data that you want to follow, our system will keep updating your stream of information with real-time updates based on your preferences."
 }

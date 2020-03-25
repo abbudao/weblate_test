@@ -13,5 +13,6 @@
     "faqFirstQuestion": "How does Fluxonaut work?",
     "faqFirstAnswer": "Fluxonaut is a news reader that can aggregate content from multiple types of sources, including RSS, social feeds, YouTube channels, market data and more. Once you set up your dashboard and indicate the blogs, sites, topics or data that you want to follow, our system will keep updating your stream of information with real-time updates based on your preferences.",
     "faqSecondQuestion": "Who is Fluxonaut for?",
-    "faqSecondAnswer": "Fluxonaut is a platform thought for anyone wanting to easily access information that matches their content preferences, in a fast and organized way, no matter what their professional role or interests might be."
+    "faqSecondAnswer": "Fluxonaut is a platform thought for anyone wanting to easily access information that matches their content preferences, in a fast and organized way, no matter what their professional role or interests might be.",
+    "faqThirdQuestion": "How can I get access to Fluxonaut?"
 }

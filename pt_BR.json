@@ -10,10 +10,11 @@
     "faqSecondQuestion": "Para quem é o Fluxonaut?",
     "faqSecondAnswer": "Fluxonaut é uma plataforma pensada para qualquer pessoa que quer acessar facilmente conteúdos de sua preferência, de forma rápida e organizada, independente da sua profissão ou interesses.",
     "featuresShareBody": "<b>Compartilhe conteúdo</b> com os seus amigos no chat do Fluxonaut ou nas redes sociais. Visite nossa seção de curadoria e navegue pelo repositório de Fluxes públicas para descobrir mais conteúdo.",
-    "featureAnalyzeBody": "O Fluxonaut agrega séries dados econômicos históricos e dados financeiros em tempo real para te ajudar a fazer <b>decisões informadas</b> e agir rapidamente sobre os seus investimentos.",
+    "featuresAnalyzeBody": "O Fluxonaut agrega séries dados econômicos históricos e dados financeiros em tempo real para te ajudar a fazer <b>decisões informadas</b> e agir rapidamente sobre os seus investimentos.",
     "heroCallToAction": "PARTICIPE DO BETA GRATUITO",
     "faqThirdQuestion": "Como consigo acesso ao Fluxonaut?",
     "faqFirstQuestion": "Como o Fluxonaut funciona?",
     "faqFirstAnswer": "Fluxonaut é um leitor de notícias que pode agregar conteúdo de diversos tipos de fontes, incluindo RSS, feeds sociais, canais do YouTube, dados de mercado e muito mais. Assim que você configurar a sua dashboard e escolher os blogs, sites, tópicos e/ou dados que você quer seguir, nosso sistema continuará atualizando o seu fluxo de informações em tempo real.",
-    "heroAvailability": "Disponível para <b>Windows</b>, <b>iOS</b> e <b>Android</b>."
+    "heroAvailability": "Disponível para <b>Windows</b>, <b>iOS</b> e <b>Android</b>.",
+    "featuresAnalyzeTitle": "ANALISE"
 }

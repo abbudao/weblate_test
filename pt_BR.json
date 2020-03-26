@@ -1,5 +1,19 @@
 {
     "signUpButton": "Participe do Beta Gratuito",
-    "heroSubheadline": "Understand the flow, be in the know, streamline and speed up the way you consume information.",
-    "heroHeadline": "Fluxonaut é um agregador de informações em tempo real <2></2> <4>hiper customizável<4>\n"
+    "heroSubheadline": "Entenda e conheça o fluxo, simplifique e acelere a maneira como você consome informação.",
+    "heroHeadline": "Fluxonaut é um agregador de informações em tempo real <2></2> <4>hiper customizável<4>\n",
+    "featuresShareTitle": "COMPARTILHE",
+    "featuresAggregateBody": "O melhor da internet, <b>em um só lugar</b>, como ela é. Combine os seus conteúdos favoritos, sejam eles blogs, feeds de Twitter, canais do YouTube e muito mais.",
+    "featuresAggregateTitle": "AGREGUE",
+    "featuresCustomizeTitle": "CUSTOMIZE",
+    "featuresCustomizeBody": "A sua dashboard Fluxonaut é <b>100% customizável</b>, combine o seu conteúdo e escolha o que você quer ver, defina filtros, highlights, fundos de tela, fontes e os modos de visualização para personalizar conforme sua preferência.",
+    "faqSecondQuestion": "Para quem é o Fluxonaut?",
+    "faqSecondAnswer": "Fluxonaut é uma plataforma pensada para qualquer pessoa que quer acessar facilmente conteúdos de sua preferência, de forma rápida e organizada, independente da sua profissão ou interesses.",
+    "featuresShareBody": "<b>Compartilhe conteúdo</b> com os seus amigos no chat do Fluxonaut ou nas redes sociais. Visite nossa seção de curadoria e navegue pelo repositório de Fluxes públicas para descobrir mais conteúdo.",
+    "featureAnalyzeBody": "O Fluxonaut agrega séries dados econômicos históricos e dados financeiros em tempo real para te ajudar a fazer <b>decisões informadas</b> e agir rapidamente sobre os seus investimentos.",
+    "heroCallToAction": "PARTICIPE DO BETA GRATUITO",
+    "faqThirdQuestion": "Como consigo acesso ao Fluxonaut?",
+    "faqFirstQuestion": "Como o Fluxonaut funciona?",
+    "faqFirstAnswer": "Fluxonaut é um leitor de notícias que pode agregar conteúdo de diversos tipos de fontes, incluindo RSS, feeds sociais, canais do YouTube, dados de mercado e muito mais. Assim que você configurar a sua dashboard e escolher os blogs, sites, tópicos e/ou dados que você quer seguir, nosso sistema continuará atualizando o seu fluxo de informações em tempo real.",
+    "heroAvailability": "Disponível para <b>Windows</b>, <b>iOS</b> e <b>Android</b>."
 }

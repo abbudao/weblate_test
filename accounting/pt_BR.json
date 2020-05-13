@@ -1,1 +1,10 @@
-{}
+{
+    "saveChanges": "SALVAR MUDANÇAS",
+    "cancel": "CANCELAR",
+    "edit": "EDITAR",
+    "uploadPicture": "Alterar Imagem",
+    "uploadAvatar": "Trocar avatar",
+    "profilePicture": "Imagem de Perfil",
+    "removeButton": "X REMOVER",
+    "saveCard": "SALVAR CARTÃO"
+}
